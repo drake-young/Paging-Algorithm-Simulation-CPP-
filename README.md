@@ -67,4 +67,4 @@ Compile the Program By:<br/>
 
 Below is a sample output when running the program against the input4 file using the FCFS scheduling algorithm.
 
-<img src="" alt="sample output image" />
+<img src="https://github.com/drake-young/Paging-Algorithm-Simulation-CPP-/blob/master/Sample%20Output.png?raw=true" alt="sample output image" />
